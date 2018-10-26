@@ -1,0 +1,12 @@
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\bin\Debug\SetUpEnv.exe.config
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\bin\Debug\SetUpEnv.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\bin\Debug\SetUpEnv.pdb
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\bin\Debug\WebDriver.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\bin\Debug\WebDriver.Support.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\bin\Debug\WebDriver.xml
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\bin\Debug\WebDriver.Support.xml
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\obj\Debug\SetUpEnv.csprojResolveAssemblyReference.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\obj\Debug\SetUpEnv.csproj.CoreCompileInputs.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\obj\Debug\SetUpEnv.csproj.CopyComplete
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\obj\Debug\SetUpEnv.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\SettingUpEnvironment\SetUpEnv\SetUpEnv\obj\Debug\SetUpEnv.pdb
