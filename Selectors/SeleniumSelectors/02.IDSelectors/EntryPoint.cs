@@ -22,7 +22,7 @@ class EntryPoint
 
         if (element.Displayed)
         {
-            GreenMessage("Yes, An Element ID " + ID + " Has Been Found");
+            GreenMessage("Yes, An Element ID '" + ID + "' Has Been Found");
         }
         else
         {

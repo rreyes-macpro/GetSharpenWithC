@@ -1,0 +1,12 @@
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\bin\Debug\02.IDSelectors.exe.config
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\bin\Debug\02.IDSelectors.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\bin\Debug\02.IDSelectors.pdb
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\bin\Debug\WebDriver.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\bin\Debug\WebDriver.Support.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\bin\Debug\WebDriver.xml
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\bin\Debug\WebDriver.Support.xml
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\obj\Debug\02.IDSelectors.csprojResolveAssemblyReference.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\obj\Debug\02.IDSelectors.csproj.CoreCompileInputs.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\obj\Debug\02.IDSelectors.csproj.CopyComplete
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\obj\Debug\02.IDSelectors.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\obj\Debug\02.IDSelectors.pdb
