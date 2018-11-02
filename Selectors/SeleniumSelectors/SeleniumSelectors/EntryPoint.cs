@@ -1,5 +1,6 @@
 ﻿
 using System;
+using common;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
 //using System.Threading;
@@ -19,26 +20,14 @@ class EntryPoint
 
         if (element.Displayed)
         {
-            GreenMessage("An Element Has Been Found");
+            message.GreenMessage("An Element Has Been Found");
         }
         else
         {
-            RedMessage("No Element Exist");
+            message.RedMessage("No Element Exist");
         }
         driver.Quit();
     }
 
-    private static void RedMessage(string message)
-    {
-        Console.ForegroundColor = ConsoleColor.Red;
-        Console.WriteLine(message);
-        Console.ForegroundColor = ConsoleColor.White;
-    }
-
-    private static void GreenMessage(string message)
-    {
-        Console.ForegroundColor = ConsoleColor.Green;
-        Console.WriteLine(message);
-        Console.ForegroundColor = ConsoleColor.White;
-    }
+    
 }
