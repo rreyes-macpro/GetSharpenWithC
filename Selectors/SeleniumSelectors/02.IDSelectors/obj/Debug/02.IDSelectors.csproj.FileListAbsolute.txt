@@ -10,3 +10,5 @@ C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\Seleni
 C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\obj\Debug\02.IDSelectors.csproj.CopyComplete
 C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\obj\Debug\02.IDSelectors.exe
 C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\obj\Debug\02.IDSelectors.pdb
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\bin\Debug\common.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\02.IDSelectors\bin\Debug\common.pdb

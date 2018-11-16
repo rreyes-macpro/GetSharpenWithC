@@ -1,0 +1,7 @@
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\04.1-LoopEx\obj\Debug\04.1-LoopEx.csprojResolveAssemblyReference.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\04.1-LoopEx\obj\Debug\04.1-LoopEx.csproj.CoreCompileInputs.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\04.1-LoopEx\bin\Debug\04.1-LoopEx.exe.config
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\04.1-LoopEx\bin\Debug\04.1-LoopEx.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\04.1-LoopEx\bin\Debug\04.1-LoopEx.pdb
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\04.1-LoopEx\obj\Debug\04.1-LoopEx.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\04.1-LoopEx\obj\Debug\04.1-LoopEx.pdb
