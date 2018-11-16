@@ -3,6 +3,8 @@ using System;
 using common;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+
+
 //using System.Threading;
 
 class EntryPoint
@@ -17,6 +19,9 @@ class EntryPoint
         IWebElement element = driver.FindElement(By.Name("myName"));
 
         //Thread.Sleep(3000);
+
+
+        
 
         if (element.Displayed)
         {

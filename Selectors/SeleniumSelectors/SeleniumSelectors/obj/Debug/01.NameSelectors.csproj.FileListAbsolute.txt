@@ -22,3 +22,5 @@ C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\Seleni
 C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\SeleniumSelectors\obj\Debug\01.NameSelectors.csproj.CopyComplete
 C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\SeleniumSelectors\obj\Debug\SeleniumSelectors.exe
 C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\SeleniumSelectors\obj\Debug\SeleniumSelectors.pdb
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\SeleniumSelectors\bin\Debug\common.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\SeleniumSelectors\bin\Debug\common.pdb
