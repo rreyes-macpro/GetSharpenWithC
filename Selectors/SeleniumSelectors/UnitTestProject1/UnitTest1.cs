@@ -30,7 +30,6 @@ namespace UnitTestProject1
         {
             string url = "http://testing.todorvachev.com/selectors/id/";
             string ID = "testImage";
-
             IWebDriver driver = new ChromeDriver();
 
             driver.Navigate().GoToUrl(url);

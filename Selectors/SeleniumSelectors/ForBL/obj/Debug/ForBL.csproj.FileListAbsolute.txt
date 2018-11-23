@@ -1,0 +1,2 @@
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForBL\obj\Debug\ForBL.csprojResolveAssemblyReference.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForBL\obj\Debug\ForBL.csproj.CoreCompileInputs.cache
