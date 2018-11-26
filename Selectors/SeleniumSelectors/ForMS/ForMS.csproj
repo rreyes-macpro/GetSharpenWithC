@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IW2.cs" />
     <Compile Include="IW.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
