@@ -1,0 +1,11 @@
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\chromedriver.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.dll
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.dll
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.xml
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\bin\Debug\WebDriver.Support.xml
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\obj\Debug\1. Input Text Box.csprojResolveAssemblyReference.cache
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

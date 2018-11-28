@@ -15,7 +15,7 @@ namespace ForMS
         static IWebElement clsPtsElmnt;
         static IWebElement clsBtnElmnt;
         static IWebDriver driver = new ChromeDriver();
-        static void Main()
+        static void MainX()
         {
             string url = "https://promosuat.icgrouplp.com/US/en/handshake?uid=837FA97A9C2C85B7046A2163FFFFFFFF&token=d4959090-5e98-40ff-b7e9-786769ca23bb&gpid=MS_FW_UAT_DEC_US_18-10&c=70fc99c25621a81879dd2144d10522e014b9c1bba38b95b3bde23be1c315dc57";
             string cssReady = "body > div.flip.flip-landing > div.play > button";

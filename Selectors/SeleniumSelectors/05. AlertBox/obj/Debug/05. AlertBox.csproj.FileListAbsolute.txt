@@ -1,0 +1,10 @@
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\bin\Debug\_05.AlertBox.exe.config
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\bin\Debug\chromedriver.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\bin\Debug\_05.AlertBox.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\bin\Debug\_05.AlertBox.pdb
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\bin\Debug\WebDriver.dll
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\bin\Debug\WebDriver.Support.dll
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\bin\Debug\WebDriver.xml
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\bin\Debug\WebDriver.Support.xml
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\obj\Debug\_05.AlertBox.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\05. AlertBox\obj\Debug\_05.AlertBox.pdb

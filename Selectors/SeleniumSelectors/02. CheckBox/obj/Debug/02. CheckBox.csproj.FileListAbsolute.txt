@@ -1,0 +1,10 @@
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\bin\Debug\_02.CheckBox.exe.config
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\bin\Debug\chromedriver.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\bin\Debug\_02.CheckBox.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\bin\Debug\_02.CheckBox.pdb
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\bin\Debug\WebDriver.dll
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\bin\Debug\WebDriver.Support.dll
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\bin\Debug\WebDriver.xml
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\bin\Debug\WebDriver.Support.xml
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\obj\Debug\_02.CheckBox.exe
+C:\Users\vache_000\Desktop\SeleniumWebDriver\Special Elements\ConsoleApplication1\02. CheckBox\obj\Debug\_02.CheckBox.pdb
