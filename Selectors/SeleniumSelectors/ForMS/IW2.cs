@@ -15,11 +15,12 @@ namespace ForMS
         //static IWebElement clsPtsElmnt;
         static IWebElement clsBtnElmnt;
         static IWebElement idPrizeImage;
+        //static IWebElement xPlaysLeft; // 11/30/18
         static IWebDriver driver = new ChromeDriver();
 
         static void Main()
         {
-            string url = "https://promosuat.icgrouplp.com/US/en/handshake?uid=837FA97A9C2C85B7046A2163FFFFFFFF&token=2c286f12-19cc-4a2b-9ee4-7ae3602b1a96&gpid=MS_FW_UAT_DEC_US_18-20&c=7b958ca4bc92c4d46b48c1522dc5f117c831f57e9ef6b96e13491e7a2415b2e8";
+            string url = "https://promosuat.icgrouplp.com/US/en/handshake?uid=837FA97A9C2C85B7046A2163FFFFFFFF&token=e2f518a0-ecb5-4859-8e1e-8986cf5e8ce5&gpid=MS_FW_UAT_DEC_US_18-10&c=0142b76c1206f34bcc60eb1126b001342b747c7efbca490ce7e3bd7e77289761";
             string cssReady = "body > div.flip.flip-landing > div.play > button";
             //string xGC = "/html/body/div[1]/div[2]/div/div/div/p[2]";
             //string clsPts = "points";
@@ -28,6 +29,8 @@ namespace ForMS
             //string timestmp2 = DateTime.Now.ToString("yyyy-MM-dd-T-HH:mm:ss");
             //System.Console.WriteLine(Directory.GetCurrentDirectory());
             //string path = Directory.GetCurrentDirectory();
+
+            //string xPL = "/html/body/div[1]/div[2]/div/div/div/p[3]"; // 11/30/18
 
             string path = @"C: \Users\rreyes\Documents\MS\list.txt";
             //string path = @"C: \Users\rreyes\Documents\MS\list";
@@ -91,6 +94,84 @@ namespace ForMS
                     message.RedMessage("No,  Element " + idPI+ " Exist");
                 }
 
+                string xPL = "/html/body/div[1]/div[2]/div/div/div/p[3]"; // 11/30/18
+                IWebElement xPlaysLeft  = null; // 11/30/18
+                var xPathPL = By.XPath(xPL);
+                //string look = "Look for an email about how to claim your prize";
+                string luck = "Test your luck again";
+
+                string xLE = "/html/body/div[1]/div[2]/div/div/div/p[2]"; // 11/30/18
+                IWebElement xLookEmail = null; //11/30/18
+                var xPathLE = By.XPath(xLE);
+                string look = "Look for an email about how to claim your prize";
+
+                try
+                {
+                    if (xPathPL != null)
+                    {
+                        xPlaysLeft = driver.FindElement(xPathPL);
+                        if (xPlaysLeft != null)
+                        {
+                            string text2 = xPlaysLeft.Text;
+
+                            if (text2.Contains(luck) == true)
+                            {
+                                Console.WriteLine(text2);
+                                using (StreamWriter sw3 = File.AppendText(path))
+                                {
+                                    sw3.WriteLine(text2);
+                                }
+
+                                //if (text2.Contains(look) == true)
+                                //{
+                                //    Console.WriteLine(text2);
+                                //    using (StreamWriter sw3 = File.AppendText(path))
+                                //    {
+                                //        sw3.WriteLine(text2);
+                                //    }
+                                //}
+
+                            }
+                        }
+                    }
+
+                    if (xPathLE != null)
+                    {
+                        xLookEmail = driver.FindElement(xPathLE);
+                        if (xLookEmail != null)
+                        {
+                            string text3 = xLookEmail.Text;
+
+                            if (text3.Contains(look) == true)
+                            {
+                                Console.WriteLine(text3);
+                                using (StreamWriter sw3 = File.AppendText(path))
+                                {
+                                    sw3.WriteLine(text3);
+                                }
+
+                                //if (text2.Contains(look) == true)
+                                //{
+                                //    Console.WriteLine(text2);
+                                //    using (StreamWriter sw3 = File.AppendText(path))
+                                //    {
+                                //        sw3.WriteLine(text2);
+                                //    }
+                                //}
+
+                            }
+                        }
+
+
+                    }
+                }
+                catch (Exception)
+                {
+
+                    //nothing
+                }
+
+                
 
 
                 if (text.Contains(prizewon) == true)
@@ -102,8 +183,10 @@ namespace ForMS
                 }
                 else
                 {
-                    message.RedMessage("Keep waiting");
+                    message.RedMessage("Keep playing to win " + prizewon );
                 }
+
+
                 string clsPts = "points";
                 var cls = By.ClassName(clsPts);
                 IWebElement clsPtsElmnt = null;

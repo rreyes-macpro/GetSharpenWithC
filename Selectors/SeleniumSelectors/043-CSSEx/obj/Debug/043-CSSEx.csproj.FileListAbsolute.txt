@@ -1,0 +1,2 @@
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\043-CSSEx\obj\Debug\043-CSSEx.csprojResolveAssemblyReference.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\043-CSSEx\obj\Debug\043-CSSEx.csproj.CoreCompileInputs.cache
