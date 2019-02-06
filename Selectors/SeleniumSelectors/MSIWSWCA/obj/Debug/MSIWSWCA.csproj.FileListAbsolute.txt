@@ -1,0 +1,14 @@
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\bin\Debug\MSIWSWCA.exe.config
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\bin\Debug\MSIWSWCA.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\bin\Debug\MSIWSWCA.pdb
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\bin\Debug\common.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\bin\Debug\WebDriver.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\bin\Debug\WebDriver.Support.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\bin\Debug\common.pdb
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\bin\Debug\WebDriver.xml
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\bin\Debug\WebDriver.Support.xml
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\obj\Debug\MSIWSWCA.csprojResolveAssemblyReference.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\obj\Debug\MSIWSWCA.csproj.CoreCompileInputs.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\obj\Debug\MSIWSWCA.csproj.CopyComplete
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\obj\Debug\MSIWSWCA.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\MSIWSWCA\obj\Debug\MSIWSWCA.pdb

@@ -1,0 +1,14 @@
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\bin\Debug\ForMSIW-SW-UKDEFR.exe.config
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\bin\Debug\ForMSIW-SW-UKDEFR.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\bin\Debug\ForMSIW-SW-UKDEFR.pdb
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\bin\Debug\common.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\bin\Debug\WebDriver.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\bin\Debug\WebDriver.Support.dll
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\bin\Debug\common.pdb
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\bin\Debug\WebDriver.xml
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\bin\Debug\WebDriver.Support.xml
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\obj\Debug\ForMSIW-SW-UKDEFR.csprojResolveAssemblyReference.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\obj\Debug\ForMSIW-SW-UKDEFR.csproj.CoreCompileInputs.cache
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\obj\Debug\ForMSIW-SW-UKDEFR.csproj.CopyComplete
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\obj\Debug\ForMSIW-SW-UKDEFR.exe
+C:\Users\rreyes\source\repos\SeleniumWithCSharp\GetSharpenWithC\Selectors\SeleniumSelectors\ForMSIW-SW-UKDEFR\obj\Debug\ForMSIW-SW-UKDEFR.pdb
